@@ -1,5 +1,5 @@
 ---
-- hosts: Dev
+- hosts: dev1
   gather_facts: no
   tasks:
     - name: Checking the directory
